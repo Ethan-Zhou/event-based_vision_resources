@@ -1982,6 +1982,9 @@ Int. Joint Conf. on Computer Vision, Imaging and Computer Graphics Theory and Ap
 *[Iterative Event-Based Motion Segmentation by Variational Contrast Maximization](https://doi.org/10.1109/CVPRW67362.2025.00484)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2025.
 [PDF](https://arxiv.org/pdf/2504.18447).
+- <a name="Zhong26icra"></a>Zhong, S., Ren, Z., Zhu, X., Yuan, D., Fermuller, C., Zhou, Y.,
+*[Real-time Motion Segmentation with Event-based Normal Flow](https://arxiv.org/pdf/2602.20790)*,
+IEEE International Conference on Robotics & Automation (ICRA), 2026.
 
 <a name="pattern-recognition"></a>
 ## Pattern Recognition
@@ -2422,6 +2425,10 @@ Int. Symp. Low Power Electronics and Design (ISLPED), 2020. [PDF](https://www.re
 *[E-Motion: Future Motion Simulation via Event Sequence Diffusion](https://openreview.net/forum?id=pWowK7jqok)*,  
 The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024. [PDF](https://openreview.net/pdf?id=pWowK7jqok), [Code](https://github.com/p4r4mount/E-Motion).
 - [Bhattacharya et al., CoRL 2024](#Bhattacharya24corl). *Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor*.
+- <a name="Ren24eccv"></a>Wu, S., Zhu, Z., Hou, J., Shi, G., Wu, J.,
+- Ren, Z., Liao, B., Kong, D., Li, J., Liu, P., Kneip, L., Gallego, G., Zhou, Y.,
+*[Motion and Structure from Event-based Normal Flow](https://arxiv.org/pdf/2407.12239)*,
+European Conference on Computer Vision (ECCV), 2024. [PDF](https://arxiv.org/pdf/2407.12239), [Code](https://nail-hnu.github.io/EvLinearSolver/).  
 
 <a name="learning-methods-frameworks"></a>
 ### Learning Methods / Frameworks
@@ -2470,6 +2477,9 @@ IEEE Winter Conf. Applications of Computer Vision (WACV), 2024. [PDF](https://ar
 - <a name="Mohammadi25iccv"></a>Mohammadi, M., Wu, Z., Gilitschenski, I.,  
 *[TESPEC: Temporally-Enhanced Self-Supervised Pretraining for Event Cameras](https://openaccess.thecvf.com/content/ICCV2025/html/Mohammadi_TESPEC_Temporally-Enhanced_Self-Supervised_Pretraining_for_Event_Cameras_ICCV_2025_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2025. [PDF](https://arxiv.org/pdf/2508.00913), [Project Page](https://mhdmohammadi.github.io/TESPEC_webpage/), [Code](https://github.com/MhdMohammadi/TESPEC).
+- <a name="Li26tro"></a>Li, J., Li, S., Lian, Q., Li P., Chen, X., Zhou, Y.,
+*[Toward Deep Representation Learning for Event-enhanced Visual Autonomous Perception:the eAP Dataset](https://nail-hnu.github.io/eAP_dataset/)*,
+IEEE Transactions on Robotics (T-RO), 2026. [PDF](https://nail-hnu.github.io/eAP_dataset/assets/pdf/2603.16303v1.pdf), [Project Page](https://nail-hnu.github.io/eAP_dataset/).
 
 
 <a name="signal_processing"></a>
@@ -3290,6 +3300,9 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 - <a name="Duarte24dib"></a>Duarte, L., Neto, P.,  
 *[Event-based dataset for the detection and classification of manufacturing assembly tasks](https://doi.org/10.1016/j.dib.2024.110340),*  
 Data in Brief, 2024. [Dataset](https://doi.org/10.5281/zenodo.10562563), [Code](https://github.com/Robotics-and-AI/DAVIS-data-capture-system).
+- <a name="Li26tro"></a>Li, J., Li, S., Lian, Q., Li P., Chen, X., Zhou, Y.,
+*[Toward Deep Representation Learning for Event-enhanced Visual Autonomous Perception:the eAP Dataset](https://nail-hnu.github.io/eAP_dataset/)*,
+IEEE Transactions on Robotics (T-RO), 2026. [PDF](https://nail-hnu.github.io/eAP_dataset/assets/pdf/2603.16303v1.pdf), [Project Page](https://nail-hnu.github.io/eAP_dataset/).
 
 ## Event Denoising
 - [DVSNOISE20](https://sites.google.com/a/udayton.edu/issl/software/dataset) associated to the paper [Event Probability Mask (EPM) and Event Denoising Convolutional Neural Network (EDnCNN) for Neuromorphic Cameras](#Baldwin20cvpr).
